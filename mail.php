@@ -5,7 +5,7 @@
 	$text = $_POST['text'];
 	
  //$to = "fullone@tiscali.it";
- $to = "roachient@gmail.com";
+ $to = "rodney@rodneygarnett.com";
  $message =" You received  a mail from ".$mail;
  $message .=" Text of the message : ".$text;
 
